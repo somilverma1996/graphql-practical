@@ -1,0 +1,25 @@
+.cars-form {
+  display: table;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.row {
+  display: table-row;
+}
+
+.cell {
+  display: table-cell;
+}
+
+.actions .cell {
+  padding-top: 20px;
+}
+
+.cell-button {
+  margin: 10px 0px 5px 2px;
+}
+
+.cell-button-save{
+  margin-right: 30px;
+}
